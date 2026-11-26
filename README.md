@@ -1,6 +1,6 @@
 # precons (moved)
 
-Rob's Commander deck pages moved to https://robmills2.github.io/decks/ in November 2026, when the repository that used to have this name was renamed robmills2/decks. Edit the pages there.
+REM's Commander Decks moved to https://robmills2.github.io/decks/ in November 2026, when the repository that used to have this name was renamed robmills2/decks. Edit the pages there.
 
 This repository only keeps the old links working:
 
